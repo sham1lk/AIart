@@ -1,0 +1,15 @@
+{
+  "name": "aiart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamil Khastiev",
+  "license": "ISC",
+  "dependencies": {
+    "pngjs": "^3.4.0",
+    "underscore": "^1.10.2"
+  }
+}
